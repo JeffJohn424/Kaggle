@@ -9,3 +9,5 @@
 ![s1off-s2off](https://github.com/JeffJohn424/Kaggle/assets/118456282/f77f5213-717c-45e3-b838-d9b87440015b)
 
 ![s1on-s2off](https://github.com/JeffJohn424/Kaggle/assets/118456282/9903f049-c96b-430d-9d7d-edee1c6a9906)
+
+![WhatsApp Image 2024-01-07 at 23 35 07](https://github.com/JeffJohn424/Kaggle/assets/118456282/a2aeb2a9-25cd-4e08-9d65-d20bebcb0790)
